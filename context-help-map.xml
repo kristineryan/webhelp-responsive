@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="getting-started" path="getting-started.html"/>
+   <appContext helpID="concept_ym3_vjn_rfb" path="supplies.html"/>
+   <appContext helpID="concept_ojh_r3c_sfb" path="baking-soda-paste.html"/>
+   <appContext helpID="concept_qhw_nxj_tfb" path="cleaning-tasks.html"/>
+   <appContext helpID="task_d2f_dvk_rfb" path="removing-garbage.html"/>
+   <appContext helpID="task_ktx_2bl_rfb" path="cleaning-cabinets.html"/>
+   <appContext helpID="task_iqh_jhl_rfb" path="cleaning-inside-range.html"/>
+   <appContext helpID="task_w44_txm_rfb" path="cleaning-glass-top-stove.html"/>
+   <appContext helpID="task_ikq_mzm_rfb" path="cleaning-refrigerator-microwave.html"/>
+   <appContext helpID="task_jjx_hcn_rfb" path="cleaning-stainless-steel.html"/>
+   <appContext helpID="task_gcg_cdn_rfb" path="cleaning-granite.html"/>
+   <appContext helpID="task_clv_b2n_rfb" path="cleaning-glass-table-chairs.html"/>
+   <appContext helpID="task_osn_w2n_rfb" path="cleaning-sink.html"/>
+   <appContext helpID="task_eh2_pfn_rfb" path="cleaning-kitchen-floor.html"/>
+   <appContext helpID="concept_u4n_bjj_sfb" path="contact-info.html"/>
+</map>

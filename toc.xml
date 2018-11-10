@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="title">Cleaners, Inc.</span></title>
+   <topic href="javascript:void(0)" wh-toc-id="tocId-d66e11">
+      <title>Cleaning the kitchen</title>
+      <topic href="getting-started.html" data-id="getting-started" wh-toc-id="getting-started-d66e12">
+         <title>Getting started</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">It is important to take stock of the situation before starting the cleaning         process.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="getting-started"></resourceid>
+            <navtitle class="- topic/navtitle ">Getting started</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Getting started</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">It is important to take stock of the situation before starting the cleaning         process.</shortdesc>
+         </topicmeta>
+      </topic>
+      <topic href="supplies.html" data-id="concept_ym3_vjn_rfb" wh-toc-id="concept_ym3_vjn_rfb-d66e23">
+         <title>Supplies</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Specific supplies are needed for cleaning the kitchen. </p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="concept_ym3_vjn_rfb"></resourceid>
+            <navtitle class="- topic/navtitle ">Supplies</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Supplies</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">Specific supplies are needed for cleaning the kitchen. </shortdesc>
+         </topicmeta>
+      </topic>
+      <topic href="baking-soda-paste.html" data-id="concept_ojh_r3c_sfb" wh-toc-id="concept_ojh_r3c_sfb-d66e34">
+         <title>Baking soda paste</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">In some cases, you will need to create a baking soda paste to clean and deodorize the         household surfaces.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="concept_ojh_r3c_sfb"></resourceid>
+            <navtitle class="- topic/navtitle ">Baking soda paste</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Baking soda paste</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">In some cases, you will need to create a baking soda paste to clean and deodorize the         household surfaces.</shortdesc>
+         </topicmeta>
+      </topic>
+      <topic href="cleaning-tasks.html" data-id="concept_qhw_nxj_tfb" wh-toc-id="concept_qhw_nxj_tfb-d66e45">
+         <title>Cleaning tasks</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Complete the following tasks for cleaning the customer's kitchen. </p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="concept_qhw_nxj_tfb"></resourceid>
+            <navtitle class="- topic/navtitle ">Cleaning tasks</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Cleaning tasks</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">Complete the following tasks for cleaning the customer's kitchen. </shortdesc>
+         </topicmeta>
+         <topic href="removing-garbage.html" data-id="task_d2f_dvk_rfb" wh-toc-id="task_d2f_dvk_rfb-d66e56">
+            <title>Removing the garbage</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clear the room of opened and expired food products and other debris, so you have no         obstacles.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_d2f_dvk_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Removing the garbage</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Removing the garbage</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clear the room of opened and expired food products and other debris, so you have no         obstacles.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-cabinets.html" data-id="task_ktx_2bl_rfb" wh-toc-id="task_ktx_2bl_rfb-d66e67">
+            <title>Cleaning the cabinets</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the inside and outside of all kitchen cabinets.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_ktx_2bl_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the cabinets</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the cabinets</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the inside and outside of all kitchen cabinets.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-inside-range.html" data-id="task_iqh_jhl_rfb" wh-toc-id="task_iqh_jhl_rfb-d66e78">
+            <title>Cleaning the inside of the range</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the oven, including shelves and other related parts.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_iqh_jhl_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the inside of the range</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the inside of the range</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the oven, including shelves and other related parts.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-glass-top-stove.html" data-id="task_w44_txm_rfb" wh-toc-id="task_w44_txm_rfb-d66e89">
+            <title>Cleaning the glass stove top</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the stove top and surrounding area.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_w44_txm_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the glass stove top</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the glass stove top</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the stove top and surrounding area.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-refrigerator-microwave.html" data-id="task_ikq_mzm_rfb" wh-toc-id="task_ikq_mzm_rfb-d66e100">
+            <title>Cleaning the inside of the refrigerator and microwave oven</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the interior of the refrigerator and microwave oven, which often have sticky         spills.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_ikq_mzm_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the inside of the refrigerator and microwave oven</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the inside of the refrigerator and microwave oven</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the interior of the refrigerator and microwave oven, which often have sticky         spills.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-stainless-steel.html" data-id="task_jjx_hcn_rfb" wh-toc-id="task_jjx_hcn_rfb-d66e111">
+            <title>Cleaning the outside of stainless steel appliances</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the outside of stainless steel appliances, such as the refrigerator, range,         dishwasher, and microwave oven.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_jjx_hcn_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the outside of stainless steel appliances</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the outside of stainless steel appliances</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the outside of stainless steel appliances, such as the refrigerator, range,         dishwasher, and microwave oven.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-granite.html" data-id="task_gcg_cdn_rfb" wh-toc-id="task_gcg_cdn_rfb-d66e122">
+            <title>Cleaning the granite countertops</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the entire surface of the granite countertops paying special attention to the         grit that collects in the corners
+                  and creases.
+               </p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_gcg_cdn_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the granite countertops</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the granite countertops</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the entire surface of the granite countertops paying special attention to the         grit that collects in the corners
+                  and creases.
+               </shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-glass-table-chairs.html" data-id="task_clv_b2n_rfb" wh-toc-id="task_clv_b2n_rfb-d66e133">
+            <title>Cleaning the glass table and chairs</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">Clean the glass table and plastic chairs.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_clv_b2n_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the glass table and chairs</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the glass table and chairs</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">Clean the glass table and plastic chairs.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-sink.html" data-id="task_osn_w2n_rfb" wh-toc-id="task_osn_w2n_rfb-d66e144">
+            <title>Cleaning the stainless steel sink basin</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">After you have completed most of the tasks that require use of the sink, clean the sink basin.</p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_osn_w2n_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the stainless steel sink basin</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the stainless steel sink basin</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">After you have completed most of the tasks that require use of the sink, clean the sink basin.</shortdesc>
+            </topicmeta>
+         </topic>
+         <topic href="cleaning-kitchen-floor.html" data-id="task_eh2_pfn_rfb" wh-toc-id="task_eh2_pfn_rfb-d66e155">
+            <title>Cleaning the kitchen floor</title>
+            <shortdesc>
+               <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">After you have completed the majority of the kitchen tasks, clean the floor. By         cleaning the floor last,  you do not
+                  have to worry about inadvertently walking on the         freshly-cleaned floor and potentially leaving scuff marks or foot
+                  prints. 
+               </p>
+            </shortdesc>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="task_eh2_pfn_rfb"></resourceid>
+               <navtitle class="- topic/navtitle ">Cleaning the kitchen floor</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Cleaning the kitchen floor</linktext><?ditaot genshortdesc?>
+               <shortdesc class="- map/shortdesc ">After you have completed the majority of the kitchen tasks, clean the floor. By         cleaning the floor last,  you do not
+                  have to worry about inadvertently walking on the         freshly-cleaned floor and potentially leaving scuff marks or foot
+                  prints. 
+               </shortdesc>
+            </topicmeta>
+         </topic>
+      </topic>
+      <topic href="contact-info.html" data-id="concept_u4n_bjj_sfb" wh-toc-id="concept_u4n_bjj_sfb-d66e166">
+         <title>Contact information</title>
+         <shortdesc>
+            <p xmlns="http://www.w3.org/1999/xhtml" class="shortdesc">You might need to contact someone if you have questions or concerns about the home         you are cleaning.</p>
+         </shortdesc>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="concept_u4n_bjj_sfb"></resourceid>
+            <navtitle class="- topic/navtitle ">Contact information</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Contact information</linktext><?ditaot genshortdesc?>
+            <shortdesc class="- map/shortdesc ">You might need to contact someone if you have questions or concerns about the home         you are cleaning.</shortdesc>
+         </topicmeta>
+      </topic>
+   </topic>
+</toc>
